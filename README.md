@@ -24,7 +24,7 @@ Follow the steps below to move the NFTs from goreli to Mumbai network:
 6. Modify the wallet address and contract address in this `getBalance.js` script.
 7. Check the NFT balance on the Polygon network using this command:
    &emsp;`npx hardhat run scripts/getBalance.js --network mumbai`
-I haven't showed in video explanation of deposit transaction in mumbai explorer so here is the link of screenshot https://ibb.co/hDDSCc3. 
+I haven't showed the previous step so i have uploaded the screenshot here: https://ibb.co/hDDSCc3. 
 
 ## Authors
 
